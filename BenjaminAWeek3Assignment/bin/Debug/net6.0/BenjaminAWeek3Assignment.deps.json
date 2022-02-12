@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BenjaminAWeek3Assignment/1.0.0": {
+        "runtime": {
+          "BenjaminAWeek3Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BenjaminAWeek3Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
